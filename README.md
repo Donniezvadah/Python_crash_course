@@ -52,5 +52,5 @@ This course material is licensed under the MIT License - see the LICENSE file fo
 ## Contact
 
 Created by Donnie
-Email: [your email here]
-GitHub: [your github profile]
+Email: donald@aims.ac.za
+<!-- GitHub: [your github profile] -->
